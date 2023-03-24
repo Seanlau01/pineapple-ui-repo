@@ -4,9 +4,9 @@
 <template>
 <div>
   <div>
-    <Button size="big">大大大</Button>
-    <Button>普普通</Button>
-    <Button size="small">小小小</Button>
+    <Button theme="button" size="big">大大大</Button>
+    <Button theme="button">普普通</Button>
+    <Button theme="button" size="small">小小小</Button>
   </div>
   <div>
     <Button theme="link" size="big">大大大</Button>
